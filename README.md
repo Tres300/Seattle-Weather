@@ -38,3 +38,7 @@ Downloaded From: https://github.com/galenegan/DATA-3320/blob/main/weather/seattl
 ny_rain.csv contains rain data obverved by various weather stations in New York City, NY.
 
 Downloaded From: https://github.com/galenegan/DATA-3320/blob/main/weather/ny_rain.csv
+
+## Author and License
+Created by Lily Bleicher on 4/15/2024.
+Feel free to use or modify with credit.
